@@ -1,0 +1,26 @@
+button{
+    font-weight: bold !important;
+}
+input{
+    width: 20rem;
+    background-color: rgb(70, 44, 44);
+    border: none;
+    color: white;
+    padding: 4px;
+    border-radius: 10px;
+}
+input-focus{
+    outline: none;
+}
+.food{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin: 2rem;
+
+}
+body::-webkit-scrollbar{
+    display: none;
+}
