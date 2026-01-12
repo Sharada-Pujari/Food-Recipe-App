@@ -2,7 +2,7 @@
 
 🍽️ A beautiful food recipe app that fetches recipes from TheMealDB API.
 
-**Live Demo:** https://food-recipe-app-git-main-sharadas-projects-2f82ee56.vercel.app?_vercel_share=Ytj0e9AxFAZ1OFCDhaTv2c7vp9RZanRw
+**Live Demo:** https://food-recipe-app-lovat.vercel.app/
 
 ## Features
 - Browse recipes by cuisine (Indian, Thai, Chinese, etc.)
@@ -10,3 +10,4 @@
 - View detailed recipes with ingredients and instructions
 - Watch video tutorials
 - Responsive design with Bootstrap
+
